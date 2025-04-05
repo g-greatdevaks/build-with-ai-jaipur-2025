@@ -1,0 +1,14 @@
+Flask      
+Flask-CORS
+pydantic
+pydantic-settings
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+faiss-cpu
+sentence-transformers
+requests
+streamlit
+python-multipart
